@@ -30,3 +30,5 @@ function calculateAndDisplay(fn) {
 });
 
 // Some comment 1
+
+// Some comment 2
